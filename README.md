@@ -30,6 +30,9 @@ alles mit:
 - Heißluft-Rework-Station
 - 🏎️ Gute USB-C-Kabel
 - 🏎️ Entlötlitze
+- PC-Bit / IC-Clip-Probes (verschiedene Größen)
+- Spring-Loaded / Pogo-Pin Test-Probes
+- SOIC-Adapter
 
 ## t-shirt / hoodies / mertch
 [morpheus](https://the-morpheus-tutorials.creator-spring.com/)
