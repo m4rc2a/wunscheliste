@@ -12,6 +12,7 @@ wunscheliste für Weihnachten
 > --> braucht kein bluetooth wlan gedöns oder so
 
 - [genauer messchieber analog oder digital](https://www.amazon.de/dp/B0D78RZC62/)
+- [computer mikroskop](https://a.aliexpress.com/_Exg9YzW) und ja die sind mitlerweile so günstig
 
 ## t-shirt / hoodies / mertch
 [morpheus](https://the-morpheus-tutorials.creator-spring.com/)
