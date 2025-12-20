@@ -31,7 +31,6 @@ alles mit:
 - 🏎️ Gute USB-C-Kabel
 - 🏎️ Entlötlitze
 - PCBite kit / IC-Clip-Probes (verschiedene Größen)
-- Spring-Loaded / Pogo-Pin Test-Probes
 
 ## t-shirt / hoodies / mertch
 [morpheus](https://the-morpheus-tutorials.creator-spring.com/)
