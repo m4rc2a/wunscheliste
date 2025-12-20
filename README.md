@@ -30,7 +30,7 @@ alles mit:
 - Heißluft-Rework-Station
 - 🏎️ Gute USB-C-Kabel
 - 🏎️ Entlötlitze
-- PC-Bit / IC-Clip-Probes (verschiedene Größen)
+- [PC-Bit / IC-Clip-Probes (verschiedene Größen)](https://www.amazon.de/s?k=SMD-%C3%9Cbungsplatinen+%28QFN%2FQFP%2F0402%29&i=industrial&crid=15ND9LPGCPOHG&sprefix=smd-%C3%BCbungsplatinen+qfn%2Fqfp%2F0402+%2Cindustrial%2C127)
 - Spring-Loaded / Pogo-Pin Test-Probes
 - SOIC-Adapter
 
