@@ -16,7 +16,7 @@ wunscheliste für Weihnachten
 - Lötzinn
 - Flussmittel
 - Lötabsaugung
-- Akkuschrauber
+- Akkuschrauber (bürstenlos / keine schleifkontakte / wasserdicht) 
 
 ## t-shirt / hoodies / mertch
 [morpheus](https://the-morpheus-tutorials.creator-spring.com/)
