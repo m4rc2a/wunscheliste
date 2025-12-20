@@ -19,7 +19,7 @@
 - [Bauteilschrank mit Mini-Schubladen](https://www.amazon.de/dp/B09TWNFB34/)
 - [Werkzeug-Lochwand](https://www.amazon.de/s?k=Werkzeug+Lochwand&i=diy)
 - Akkuschrauber  
-  - bürstenlos (keine Schleifkontakte)  
+  - **bürstenlos** (keine Schleifkontakte)  
   - wasserdicht (optional)
   - mit Drehmomentkupplung  
   - **mind. 20 Nm**
