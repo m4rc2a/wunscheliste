@@ -1,6 +1,10 @@
 ## wunschliste
 wunscheliste für Weihnachten
 
+alles mit:
+
+- 🏎️ lässt sich schnell besorgen
+
 ## dinge
 
 - [ein zweiten nitrokey](https://shop.nitrokey.com/shop/product/nk3an-nitrokey-3a-nfc-147?search=nitrokey+3)
@@ -14,9 +18,9 @@ wunscheliste für Weihnachten
 
 - [genauer messchieber analog oder digital](https://www.amazon.de/dp/B0D78RZC62/)
 - [computer mikroskop](https://a.aliexpress.com/_Exg9YzW) und ja die sind mitlerweile so günstig
-- Lötzinn
-- Flussmittel
-- Lötabsaugung
+- 🏎️ Lötzinn
+- 🏎️ Flussmittel
+- 🏎️ Lötabsaugung
 - Akkuschrauber
 	- bürstenlos / keine schleifkontakte / wasserdicht
 	- mit Drehmomentkupplung
