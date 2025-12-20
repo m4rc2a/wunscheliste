@@ -4,7 +4,7 @@ wunscheliste für Weihnachten
 ## dinge
 
 - [ein zweiten nitrokey](https://shop.nitrokey.com/shop/product/nk3an-nitrokey-3a-nfc-147?search=nitrokey+3)
-- FPGA chip oder starter kit
+- [FPGA chip oder starter kit](https://www.amazon.de/s?k=fpga+starter+kit)
 - pcie 4.0 nvme ssd (2tb)
 - bauteil schrank mit mini schubladen
 - weitere gute stereo Lautsprecher für zuhause (klang ist wichtiger als irgendwas smartes)
