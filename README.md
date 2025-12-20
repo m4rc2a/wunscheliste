@@ -9,6 +9,7 @@ wunscheliste für Weihnachten
 - [bauteil schrank mit mini schubladen](https://www.amazon.de/dp/B09TWNFB34/)
 - [Werkzeug Lochwand](https://www.amazon.de/s?k=Werkzeug+Lochwand&i=diy&crid=HGDQEOXOVN5X&sprefix=werkzeug+lochwand%2Cdiy%2C77)
 - weitere gute stereo Lautsprecher für zuhause (klang ist wichtiger als irgendwas smartes)
+
 	--> braucht kein bluetooth wlan gedöns oder so
 
 - [genauer messchieber analog oder digital](https://www.amazon.de/dp/B0D78RZC62/)
