@@ -29,7 +29,7 @@
 
 ---
 
-## 🔥 Löten & Rework
+## 🪄 Löten
 
 - [ ] 🏎️ Lötzinn
 - [ ] 🏎️ Flussmittel
