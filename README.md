@@ -7,6 +7,7 @@ wunscheliste für Weihnachten
 - [FPGA chip oder starter kit](https://www.amazon.de/s?k=fpga+starter+kit)
 - pcie 4.0 nvme ssd (2tb)
 - [bauteil schrank mit mini schubladen](https://www.amazon.de/dp/B09TWNFB34/)
+-[Werkzeug Lochwand](https://www.amazon.de/s?k=Werkzeug+Lochwand&i=diy&crid=HGDQEOXOVN5X&sprefix=werkzeug+lochwand%2Cdiy%2C77)
 - weitere gute stereo Lautsprecher für zuhause (klang ist wichtiger als irgendwas smartes)
 > --> braucht kein bluetooth wlan gedöns oder so
 
