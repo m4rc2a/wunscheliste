@@ -27,7 +27,7 @@ alles mit:
 	- min. 20 Nm Drehmoment
 - kleiner Beamer für Filme vielleicht auch mal draußen im Dunkeln
 - 🏎️ [SMD-Übungsplatinen (QFN/QFP/0402)](https://www.amazon.de/s?k=SMD-%C3%9Cbungsplatinen+%28QFN%2FQFP%2F0402%29&i=industrial&crid=15ND9LPGCPOHG&sprefix=smd-%C3%BCbungsplatinen+qfn%2Fqfp%2F0402+%2Cindustrial%2C127)
-- Heißluft-Rework-Station
+- [Heißluft-Rework-Station](https://www.amazon.de/s?k=Hei%C3%9Fluft-Rework-Station&rh=n%3A5866098031&crid=7TRKS1XW6WFH&sprefix=hei%C3%9Fluft-rework-station%2Cindustrial%2C134)
 - 🏎️ Gute USB-C-Kabel
 - 🏎️ Entlötlitze
 - PC-Bit / IC-Clip-Probes (verschiedene Größen)
