@@ -50,8 +50,7 @@
 Musik Alben in Form von Audio CDs/Vinyl:
 <!-- - [Balast der Republik - Die Toten Hosen](https://de.wikipedia.org/wiki/Ballast_der_Republik)  ([Musicbrainz](https://musicbrainz.org/release/4f7982a3-1643-43e3-ae54-197bd62b51b1)) -->
 
-- [„Entartete Musik“ – Willkommen in Deutschland - Sinfonieorchester Robert Schumann Hochschule Düsseldorf und Die Toten Hosen](https://de.wikipedia.org/wiki/Entartete_Musik_%E2%80%93_Willkommen_in_Deutschland) ( [Band Website](https://www.dth.de/diskographie/musik/entartete-musik-willkommen-in-deutschland-ein-gedenkkonzert) ) ( [Musicbrainz](https://musicbrainz.org/release/5b30edf7-ad70-482b-8b72-deeb2419302b/details) )
-
+- [„Entartete Musik“ – Willkommen in Deutschland - Sinfonieorchester Robert Schumann Hochschule Düsseldorf und Die Toten Hosen](https://de.wikipedia.org/wiki/Entartete_Musik_%E2%80%93_Willkommen_in_Deutschland) ([Band Website](https://www.dth.de/diskographie/musik/entartete-musik-willkommen-in-deutschland-ein-gedenkkonzert)) ([Musicbrainz](https://musicbrainz.org/release/5b30edf7-ad70-482b-8b72-deeb2419302b/details))
 
 ## 🔌 Zubehör
 
