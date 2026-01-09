@@ -46,6 +46,11 @@
 	   - [Beamer ca. 60€](https://www.amazon.co.uk/dp/B0CRYT2X6S/)
     - [🏎️ Beamer ca. 90€](https://www.amazon.co.uk/dp/B0BMQDC9G9/)
 
+## 🎶 Musik
+Musik Alben in Form von Audio CDs/Vinyl:
+- [Balast der Republik](https://de.wikipedia.org/wiki/Ballast_der_Republik) ([Musicbrainz](https://musicbrainz.org/release/4f7982a3-1643-43e3-ae54-197bd62b51b1))
+
+
 ## 🔌 Zubehör
 
 - 🏎️ Gute USB-C-Kabel
